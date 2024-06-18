@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Drupal, JS, React**
 
-- 📫 How to reach me **evelina.karasjova@oneyoungworld.com**
+- 📫 How to reach me **kiwaeva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
