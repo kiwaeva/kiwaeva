@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Evelina</h1>
 <h3 align="center">A passionate Web developer from the UK</h3>
 
-- 🌱 I’m currently learning **Drupal, JS, React**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **kiwaeva@gmail.com**
 
